@@ -68,3 +68,11 @@ image::15_ready_to_finish_up.jpeg[width=500]
 +
 [link=16_look_at_that_beaut.jpeg]
 image::16_look_at_that_beaut.jpeg[width=500]
+* link:17_near_the_end_at_1545.jpeg[17_near_the_end_at_1545.jpeg]
++
+[link=17_near_the_end_at_1545.jpeg]
+image::17_near_the_end_at_1545.jpeg[width=500]
+* link:18_my_watch_works_too.png[18_my_watch_works_too.png]
++
+[link=18_my_watch_works_too.png]
+image::18_my_watch_works_too.png[width=500]
