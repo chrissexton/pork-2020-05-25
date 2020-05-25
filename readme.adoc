@@ -4,14 +4,6 @@
 +
 [link=02_the_pork.jpeg]
 image::02_the_pork.jpeg[width=500]
-* link:index.adoc[index.adoc]
-+
-[link=index.adoc]
-image::index.adoc[width=500]
-* link:push.sh[push.sh]
-+
-[link=push.sh]
-image::push.sh[width=500]
 * link:01_my_homemade_starter_bricks.jpeg[01_my_homemade_starter_bricks.jpeg]
 +
 [link=01_my_homemade_starter_bricks.jpeg]
