@@ -1,130 +1,18 @@
 = img
 
-* link:stk5.png[stk5.png]
+* link:02_the_pork.jpeg[02_the_pork.jpeg]
 +
-[link=stk5.png]
-image::stk5.png[width=100]
-* link:toy_machine.jpeg[toy_machine.jpeg]
-+
-[link=toy_machine.jpeg]
-image::toy_machine.jpeg[width=100]
-* link:yoda.jpg[yoda.jpg]
-+
-[link=yoda.jpg]
-image::yoda.jpg[width=100]
-* link:steve_mask.jpg[steve_mask.jpg]
-+
-[link=steve_mask.jpg]
-image::steve_mask.jpg[width=100]
-* link:saffitz.png[saffitz.png]
-+
-[link=saffitz.png]
-image::saffitz.png[width=100]
-* link:seabass_stream.jpg[seabass_stream.jpg]
-+
-[link=seabass_stream.jpg]
-image::seabass_stream.jpg[width=100]
-* link:sean_evans.jpg[sean_evans.jpg]
-+
-[link=sean_evans.jpg]
-image::sean_evans.jpg[width=100]
-* link:seped_signal.png[seped_signal.png]
-+
-[link=seped_signal.png]
-image::seped_signal.png[width=100]
-* link:skate.jpeg[skate.jpeg]
-+
-[link=skate.jpeg]
-image::skate.jpeg[width=100]
-* link:skiesel.jpg[skiesel.jpg]
-+
-[link=skiesel.jpg]
-image::skiesel.jpg[width=100]
-* link:msherms.jpg[msherms.jpg]
-+
-[link=msherms.jpg]
-image::msherms.jpg[width=100]
-* link:msherms_bait.jpg[msherms_bait.jpg]
-+
-[link=msherms_bait.jpg]
-image::msherms_bait.jpg[width=100]
+[link=02_the_pork.jpeg]
+image::02_the_pork.jpeg[width=100]
 * link:push.sh[push.sh]
 +
 [link=push.sh]
 image::push.sh[width=100]
-* link:really.jpg[really.jpg]
+* link:01_my_homemade_starter_bricks.jpeg[01_my_homemade_starter_bricks.jpeg]
 +
-[link=really.jpg]
-image::really.jpg[width=100]
-* link:img_20200428_153308.jpg[img_20200428_153308.jpg]
+[link=01_my_homemade_starter_bricks.jpeg]
+image::01_my_homemade_starter_bricks.jpeg[width=100]
+* link:00_smoker_built.jpeg[00_smoker_built.jpeg]
 +
-[link=img_20200428_153308.jpg]
-image::img_20200428_153308.jpg[width=100]
-* link:magic-missile.png[magic-missile.png]
-+
-[link=magic-missile.png]
-image::magic-missile.png[width=100]
-* link:mask.jpg[mask.jpg]
-+
-[link=mask.jpg]
-image::mask.jpg[width=100]
-* link:moustache.jpg[moustache.jpg]
-+
-[link=moustache.jpg]
-image::moustache.jpg[width=100]
-* link:eaburns_yeti.jpg[eaburns_yeti.jpg]
-+
-[link=eaburns_yeti.jpg]
-image::eaburns_yeti.jpg[width=100]
-* link:explain.jpg[explain.jpg]
-+
-[link=explain.jpg]
-image::explain.jpg[width=100]
-* link:frank.png[frank.png]
-+
-[link=frank.png]
-image::frank.png[width=100]
-* link:goof.jpg[goof.jpg]
-+
-[link=goof.jpg]
-image::goof.jpg[width=100]
-* link:google.jpg[google.jpg]
-+
-[link=google.jpg]
-image::google.jpg[width=100]
-* link:gregg.jpg[gregg.jpg]
-+
-[link=gregg.jpg]
-image::gregg.jpg[width=100]
-* link:hammer.jpg[hammer.jpg]
-+
-[link=hammer.jpg]
-image::hammer.jpg[width=100]
-* link:herbig.jpg[herbig.jpg]
-+
-[link=herbig.jpg]
-image::herbig.jpg[width=100]
-* link:horrible.jpg[horrible.jpg]
-+
-[link=horrible.jpg]
-image::horrible.jpg[width=100]
-* link:baby-yoda.jpg[baby-yoda.jpg]
-+
-[link=baby-yoda.jpg]
-image::baby-yoda.jpg[width=100]
-* link:cheetos.png[cheetos.png]
-+
-[link=cheetos.png]
-image::cheetos.png[width=100]
-* link:cowboy.jpg[cowboy.jpg]
-+
-[link=cowboy.jpg]
-image::cowboy.jpg[width=100]
-* link:dark_side.jpg[dark_side.jpg]
-+
-[link=dark_side.jpg]
-image::dark_side.jpg[width=100]
-* link:eaburns_yeti-2.jpg[eaburns_yeti-2.jpg]
-+
-[link=eaburns_yeti-2.jpg]
-image::eaburns_yeti-2.jpg[width=100]
+[link=00_smoker_built.jpeg]
+image::00_smoker_built.jpeg[width=100]
