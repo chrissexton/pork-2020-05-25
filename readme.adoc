@@ -40,3 +40,11 @@ image::08_temp_at_1100.jpeg[width=500]
 +
 [link=09_pork_at_1100.jpeg]
 image::09_pork_at_1100.jpeg[width=500]
+* link:10_pork_at_1245.jpeg[10_pork_at_1245.jpeg]
++
+[link=10_pork_at_1245.jpeg]
+image::10_pork_at_1245.jpeg[width=500]
+* link:11_pork_at_1245.jpeg[11_pork_at_1245.jpeg]
++
+[link=11_pork_at_1245.jpeg]
+image::11_pork_at_1245.jpeg[width=500]
