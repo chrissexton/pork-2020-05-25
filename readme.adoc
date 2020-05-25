@@ -48,3 +48,11 @@ image::10_pork_at_1245.jpeg[width=500]
 +
 [link=11_pork_at_1245.jpeg]
 image::11_pork_at_1245.jpeg[width=500]
+* link:12_1400_almost_done.jpeg[12_1400_almost_done.jpeg]
++
+[link=12_1400_almost_done.jpeg]
+image::12_1400_almost_done.jpeg[width=500]
+* link:13_beer_time.jpeg[13_beer_time.jpeg]
++
+[link=13_beer_time.jpeg]
+image::13_beer_time.jpeg[width=500]
