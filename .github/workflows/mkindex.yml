@@ -26,13 +26,6 @@ jobs:
     - name: Run a one-line script
       run: bash mkreadme.sh > readme.adoc
 
-    - name: Update gh-pages
-      uses: tonynv/asciidoctor-action@v1
-      with:
-        # asciidoctor
-        program: # default is asciidoctor -D docs --backend=html5 docs/index.adoc  -o index.html
-          asciidoctor -D docs --backend=html5 readme.adoc -o index.html
-
     # Runs a set of commands using the runners shell
     - name: Commit and push if index is changed
       run: |-
