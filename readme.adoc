@@ -56,3 +56,15 @@ image::12_1400_almost_done.jpeg[width=500]
 +
 [link=13_beer_time.jpeg]
 image::13_beer_time.jpeg[width=500]
+* link:14_more_beer_it_takes_time.jpeg[14_more_beer_it_takes_time.jpeg]
++
+[link=14_more_beer_it_takes_time.jpeg]
+image::14_more_beer_it_takes_time.jpeg[width=500]
+* link:15_ready_to_finish_up.jpeg[15_ready_to_finish_up.jpeg]
++
+[link=15_ready_to_finish_up.jpeg]
+image::15_ready_to_finish_up.jpeg[width=500]
+* link:16_look_at_that_beaut.jpeg[16_look_at_that_beaut.jpeg]
++
+[link=16_look_at_that_beaut.jpeg]
+image::16_look_at_that_beaut.jpeg[width=500]
