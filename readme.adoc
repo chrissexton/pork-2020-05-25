@@ -32,3 +32,11 @@ image::06_temp_at_900.jpeg[width=500]
 +
 [link=07_form_that_bark.jpeg]
 image::07_form_that_bark.jpeg[width=500]
+* link:08_temp_at_1100.jpeg[08_temp_at_1100.jpeg]
++
+[link=08_temp_at_1100.jpeg]
+image::08_temp_at_1100.jpeg[width=500]
+* link:09_pork_at_1100.jpeg[09_pork_at_1100.jpeg]
++
+[link=09_pork_at_1100.jpeg]
+image::09_pork_at_1100.jpeg[width=500]
