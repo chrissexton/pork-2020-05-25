@@ -16,3 +16,7 @@ image::02_the_pork.jpeg[width=500]
 +
 [link=03_pork_goes_on.jpeg]
 image::03_pork_goes_on.jpeg[width=500]
+* link:04_temp_at_700.jpeg[04_temp_at_700.jpeg]
++
+[link=04_temp_at_700.jpeg]
+image::04_temp_at_700.jpeg[width=500]
