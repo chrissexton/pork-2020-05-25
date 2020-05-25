@@ -20,3 +20,11 @@ image::03_pork_goes_on.jpeg[width=500]
 +
 [link=04_temp_at_700.jpeg]
 image::04_temp_at_700.jpeg[width=500]
+* link:05_nacho_chees_and_egg_breakfast.jpeg[05_nacho_chees_and_egg_breakfast.jpeg]
++
+[link=05_nacho_chees_and_egg_breakfast.jpeg]
+image::05_nacho_chees_and_egg_breakfast.jpeg[width=500]
+* link:06_temp_at_900.jpeg[06_temp_at_900.jpeg]
++
+[link=06_temp_at_900.jpeg]
+image::06_temp_at_900.jpeg[width=500]
