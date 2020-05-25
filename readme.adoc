@@ -4,6 +4,10 @@
 +
 [link=02_the_pork.jpeg]
 image::02_the_pork.jpeg[width=500]
+* link:index.adoc[index.adoc]
++
+[link=index.adoc]
+image::index.adoc[width=500]
 * link:push.sh[push.sh]
 +
 [link=push.sh]
