@@ -1,18 +1,18 @@
-= img
+= Pork!
 
-* link:03_pork_goes_on.jpeg[03_pork_goes_on.jpeg]
-+
-[link=03_pork_goes_on.jpeg]
-image::03_pork_goes_on.jpeg[width=500]
-* link:02_the_pork.jpeg[02_the_pork.jpeg]
-+
-[link=02_the_pork.jpeg]
-image::02_the_pork.jpeg[width=500]
-* link:01_my_homemade_starter_bricks.jpeg[01_my_homemade_starter_bricks.jpeg]
-+
-[link=01_my_homemade_starter_bricks.jpeg]
-image::01_my_homemade_starter_bricks.jpeg[width=500]
 * link:00_smoker_built.jpeg[00_smoker_built.jpeg]
 +
 [link=00_smoker_built.jpeg]
 image::00_smoker_built.jpeg[width=500]
+* link:01_my_homemade_starter_bricks.jpeg[01_my_homemade_starter_bricks.jpeg]
++
+[link=01_my_homemade_starter_bricks.jpeg]
+image::01_my_homemade_starter_bricks.jpeg[width=500]
+* link:02_the_pork.jpeg[02_the_pork.jpeg]
++
+[link=02_the_pork.jpeg]
+image::02_the_pork.jpeg[width=500]
+* link:03_pork_goes_on.jpeg[03_pork_goes_on.jpeg]
++
+[link=03_pork_goes_on.jpeg]
+image::03_pork_goes_on.jpeg[width=500]
